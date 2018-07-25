@@ -2,4 +2,4 @@
 learning
 
 New to Github
-just lokoing around
+just looking around
